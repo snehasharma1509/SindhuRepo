@@ -87,8 +87,7 @@
   
   li.completed {
     text-decoration: line-through;
-    color: #888;
-  }
+    color: #666 }
   
   .complete-btn, .delete-btn {
     background: none;
